@@ -2,6 +2,10 @@
 Name:<br> - HarryHunk<br>Gender:<br> - he/him<br>Loves:<br> - Anime, Games <br>Hobbies:<br> - Coding, Gym
 
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/TKmvzFkZ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harryhunkalive) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harryhunkalive) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harryhunkalive@gmail.com) 
 
@@ -15,9 +19,6 @@ Name:<br> - HarryHunk<br>Gender:<br> - he/him<br>Loves:<br> - Anime, Games <br>H
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harryhunkalive&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=harryhunkalive&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -25,3 +26,4 @@ Name:<br> - HarryHunk<br>Gender:<br> - he/him<br>Loves:<br> - Anime, Games <br>H
 [![](https://visitcount.itsvg.in/api?id=harryhunkalive&icon=10&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
